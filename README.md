@@ -4,7 +4,7 @@ Hi 👋 My name is Matt Heine
 Full Stack Developer
 --------------------
 
-I am a full stack developer who lose taking project ideas and turning them into a reality through development.
+I am a full stack developer who loves taking project ideas and turning them into a reality through development!
 
 * 🌍  I'm based in Missoula, MT
 * ✉️  You can contact me at [heine.matt2@gmail.com](mailto:heine.matt2@gmail.com)
