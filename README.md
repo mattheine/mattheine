@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a full stack developer who loves taking project ideas and turning them into a reality through development!
 
-* 🌍  I'm based in Missoula, MT
+* 🌍  I'm based in Helena, MT
 * ✉️  You can contact me at [heine.matt2@gmail.com](mailto:heine.matt2@gmail.com)
 * 🚀  I'm currently working on [A Dashboard app](http://github.com/mattheine/productivity-dashboard-app)
 * 🧠  I'm learning AWS, Typescript
